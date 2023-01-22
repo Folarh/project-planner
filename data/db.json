@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "jump",
+      "details": "lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "walk the cat",
+      "details": "lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "title": "do the laundry",
+      "details": "lorem ipsum",
+      "complete": true
+    },
+    {
+      "title": "change cloths",
+      "details": "hahahaahahh",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
