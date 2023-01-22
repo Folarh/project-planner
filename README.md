@@ -1,4 +1,5 @@
 # big-project
+#npx json-server --watch data/db.json
 
 ## Project setup
 ```
